@@ -9,7 +9,8 @@
  
 - 📫 Reach me via email: daw.dzieniszewski@gmail.com
 
--  
+- 💪 I live healthily and love playing sports, I visit squash court and climbing wall every week. 
+ Sometimes I get crazy enough to make a bungee jump.  
 
 
 <!---
