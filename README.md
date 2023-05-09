@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dawid
  
-- 🎓 I am fourth year student of Computer Science. On daily basis I oversee Erasmus Students Network in my homecity. 
+- 🎓 I am graduated student of Computer Science. On daily basis I oversee Erasmus Students Network in my homecity. 
  I see my role as an oppurtunity to thrive together with students from all over the world.
  
 - 🌱 I’m currently learning React
